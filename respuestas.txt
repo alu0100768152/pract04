@@ -1,1 +1,2 @@
 27) RVM(Ruby Version Manager) es una herramienta de línea de comandos que permite instalar fácilmente, gestionar y trabajar con múltiples entornos de Ruby 
+34) La diferencia es que con Ruby cuando introduces un comando se ejecuta dicho comando mientras que con el interprete interactivo se muestra tanto el comando como el codigo fuente.
