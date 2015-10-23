@@ -1,0 +1,1 @@
+27) RVM(Ruby Version Manager) es una herramienta de línea de comandos que permite instalar fácilmente, gestionar y trabajar con múltiples entornos de Ruby 
