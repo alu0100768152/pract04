@@ -1,2 +1,3 @@
 27) RVM(Ruby Version Manager) es una herramienta de línea de comandos que permite instalar fácilmente, gestionar y trabajar con múltiples entornos de Ruby 
 34) La diferencia es que con Ruby cuando introduces un comando se ejecuta dicho comando mientras que con el interprete interactivo se muestra tanto el comando como el codigo fuente.
+41) La diferencia es que PRI es un interprete mejorado que dispone de resaltado de sintaxis y ademas cuenta con una arquitectura flexible, en cambio irb no dispone de resaltado en la sintaxis, auque te peromite ver lo que aparece en el codigo fuente.
